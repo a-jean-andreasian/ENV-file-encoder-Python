@@ -1,0 +1,6 @@
+.idea/
+.git/
+./venv/
+*__pycache__/
+tests/files/
+tests/salt
